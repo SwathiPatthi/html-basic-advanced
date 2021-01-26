@@ -18,5 +18,5 @@ git checkout master
 
 Anybody setting up git for the first time in thier machine will need to run these commands 
 
-$ git config --global user.name "Umamaheswararao Meka"
-$ git config --global user.email "umamahesh_16@yahoo.co.in"
+$ git config --global user.name "Swathi Patthi"
+$ git config --global user.email "patthi.swathi@gmail.com"
