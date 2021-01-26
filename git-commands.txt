@@ -1,0 +1,22 @@
+git init - To initialize the git repository 
+git remote add origin - Will help us adding our local repository to remote repository 
+git status - will check the status of current files and folders
+git add filename - will add the specific file to git repository
+git add . - will add all the files to git repository 
+git commit -am 'Setting up nodejs server'
+git push origin master ( deafult branch) - Will push change to remote repository ( into master branch)
+git pull origin master - will help us pull the latest changes from remote repository 
+
+git push origin feature/branch - Will push change to remote repository ( into feature branch)
+git pull orogin feature/branch  - will help us pull the latest changes from remote repository ( from feature branch)
+
+Git Branches
+------------
+git branch - will help us findout which branch I we are on on and show us the list of branches
+git checkout -b feature/branchname (any name)
+git checkout master 
+
+Anybody setting up git for the first time in thier machine will need to run these commands 
+
+$ git config --global user.name "Umamaheswararao Meka"
+$ git config --global user.email "umamahesh_16@yahoo.co.in"
